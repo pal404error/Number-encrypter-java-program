@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class prac2
+public class encrypter
 {
 	public static void main(String []args)
 	{
